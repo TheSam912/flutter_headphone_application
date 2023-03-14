@@ -1,4 +1,4 @@
-# flutter_evet_app
+# flutter_headphone_app
 
 A new Flutter project.
 
